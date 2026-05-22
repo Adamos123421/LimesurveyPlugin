@@ -2,7 +2,6 @@
 
 Envoie automatiquement les réponses d’une enquête vers une URL externe (API, Google Apps Script, etc.) lorsqu’un participant **termine** l’enquête.
 
-Compatible avec **LimeSurvey 7.x** (testé sur 7.0.0-RC1).
 
 ---
 
