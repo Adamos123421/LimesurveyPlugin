@@ -83,23 +83,36 @@ Cela permet :
 ---
 
 # Exemple de workflow
-```text
+# Exemple de workflow
+
 1. Un participant complète le questionnaire.
-   <img width="1748" height="691" alt="image" src="https://github.com/user-attachments/assets/1de17412-d62c-443e-907d-94b8ccbbdcd2" />
 
-3. LimeSurvey enregistre la réponse.
-  <img width="1660" height="631" alt="image" src="https://github.com/user-attachments/assets/a84646dd-51d0-40c6-8bc1-f7951e0a0b93" />
+<img width="1748" height="691" alt="image" src="https://github.com/user-attachments/assets/1de17412-d62c-443e-907d-94b8ccbbdcd2" />
 
-4. L’événement `afterSurveyComplete` est déclenché.
-                     ↓
-5. Le plugin récupère les données.
-                       ↓
-6. Les réponses sont envoyées au Google Apps Script.
-                        ↓
-8. Les données apparaissent automatiquement dans Google Sheets.
-   <img width="967" height="113" alt="image" src="https://github.com/user-attachments/assets/c4787c83-24c3-475d-b46b-890f7ef5f4f1" />
+⬇️
 
- ```  
+2. LimeSurvey enregistre la réponse.
+
+<img width="1660" height="631" alt="image" src="https://github.com/user-attachments/assets/a84646dd-51d0-40c6-8bc1-f7951e0a0b93" />
+
+⬇️
+
+3. L’événement `afterSurveyComplete` est déclenché.
+
+⬇️
+
+4. Le plugin récupère automatiquement les données.
+
+⬇️
+
+5. Les réponses sont envoyées vers un Google Apps Script.
+
+⬇️
+
+6. Les données apparaissent automatiquement dans Google Sheets.
+
+<img width="967" height="113" alt="image" src="https://github.com/user-attachments/assets/c4787c83-24c3-475d-b46b-890f7ef5f4f1" />
+ 
 
 ---
 
