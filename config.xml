@@ -4,7 +4,7 @@
         <name>PostToApi</name>
         <type>plugin</type>
         <creationDate>2026-05-22</creationDate>
-        <author>Custom</author>
+        <author>Adam</author>
         <version>1.0.0</version>
         <license>MIT</license>
         <description><![CDATA[POST answers to your API when a survey is completed.]]></description>
