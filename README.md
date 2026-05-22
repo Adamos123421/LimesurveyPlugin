@@ -2,7 +2,7 @@
 
 ## Description
 
-LimesurveyPlugin est un plugin développé pour LimeSurvey permettant d’automatiser l’envoi des réponses d’un questionnaire vers Google Sheets en temps réel.
+PostToApi est un plugin que j'ai développé pour LimeSurvey permettant d’automatiser l’envoi des réponses d’un questionnaire vers Google Sheets en temps réel.
 <img width="1538" height="348" alt="image" src="https://github.com/user-attachments/assets/d8cc0d9b-a57c-4b80-a33c-b58096d2f412" />
 
 
