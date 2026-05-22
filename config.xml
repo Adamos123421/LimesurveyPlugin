@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <metadata>
+        <name>PostToApi</name>
+        <type>plugin</type>
+        <creationDate>2026-05-22</creationDate>
+        <author>Custom</author>
+        <version>1.0.0</version>
+        <license>MIT</license>
+        <description><![CDATA[POST answers to your API when a survey is completed.]]></description>
+    </metadata>
+    <compatibility>
+        <version>7.0</version>
+        <version>6.0</version>
+        <version>5.0</version>
+    </compatibility>
+</config>
