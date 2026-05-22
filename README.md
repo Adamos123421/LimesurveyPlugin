@@ -83,7 +83,7 @@ Cela permet :
 ---
 
 # Exemple de workflow
-
+```text
 1. Un participant complète le questionnaire.
    <img width="1748" height="691" alt="image" src="https://github.com/user-attachments/assets/1de17412-d62c-443e-907d-94b8ccbbdcd2" />
 
@@ -99,7 +99,7 @@ Cela permet :
 8. Les données apparaissent automatiquement dans Google Sheets.
    <img width="967" height="113" alt="image" src="https://github.com/user-attachments/assets/c4787c83-24c3-475d-b46b-890f7ef5f4f1" />
 
-   
+ ```  
 
 ---
 
