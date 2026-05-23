@@ -75,15 +75,14 @@ Cela permet :
 
 - Automatisation complète du workflow
 - Synchronisation en temps réel
-- Réduction des manipulations manuelles
-- Collaboration simplifiée
+- Collaboration simplifiée (tout le monde à accès au meme google sheet)
 - Architecture extensible
 - Compatible avec APIs et dashboards
 
 ---
 
 # Exemple de workflow
-# Exemple de workflow
+
 
 1. Un participant complète le questionnaire.
 
